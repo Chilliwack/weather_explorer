@@ -4,4 +4,4 @@
 
 This project was done as part of [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program.
 
-Please see the [notebook](https://github.com/Chilliwack/weather_explorer_analysis) for further details: https://github.com/Chilliwack/weather_explorer_analysis.ipynb
+Please see the [notebook](https://github.com/Chilliwack/weather_explorer/blob/master/weather_explorer_analysis.ipynb) for further details: https://github.com/Chilliwack/weather_explorer/blob/master/weather_explorer_analysis.ipynb
